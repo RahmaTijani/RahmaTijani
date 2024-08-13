@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @RahmaTijani
-- 👀 I’m interested in becoming a developer..
-- 🌱 I’m currently learning ... python and R
+- 👀 I’m a statistical analyst and a data analyst
+- I'm looking forward to become a data scientist..
+- I'm a statistics student (final year in view)..
+- I'm proficient in Excel, SPSS and R for data analysis
+- 🌱 I’m currently building myself in python and R
 - 💞️ I’m looking to collaborate on . python and R..
 - 📫 How to reach me ... ramat.tijani05@gmail.com
 
