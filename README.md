@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RahmaTijani
 - 👀 I’m a statistical analyst and a data analyst
-- I'm looking forward to become a data scientist..
-- I'm a statistics student (final year in view)..
+- I'm a final year statistics student..
 - I'm proficient in Excel, Power BI and Python for data analysis
 - 📫 How to reach me ... ramat.tijani05@gmail.com
 
